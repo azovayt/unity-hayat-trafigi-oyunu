@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Anasayfa.unity
+    guid: 18327f9db1a08c843bee46398b028e22
+  - enabled: 1
+    path: Assets/Kategoriler.unity
+    guid: 91e12f56ce17941499f1bfb50741eb4e
+  - enabled: 1
+    path: Assets/Hakkimizda.unity
+    guid: 24df473b55661b74592d62ba731d48c2
+  - enabled: 1
+    path: Assets/bilgi1.unity
+    guid: 1b1f6f8c57c505743a2c67f2591b026c
+  - enabled: 1
+    path: Assets/bilgi2.unity
+    guid: 52c9f2912cffbd646a084ec93dfe901c
+  - enabled: 1
+    path: Assets/bilgi3.unity
+    guid: 798ab9baecd4b6e439a40cab051a6cc6
+  - enabled: 1
+    path: Assets/bilgi4.unity
+    guid: 14d20402835215a419eb034b9d3bb15a
+  - enabled: 1
+    path: Assets/bilgi5.unity
+    guid: 9a408076e49ac5c4f97f111070ccbe14
+  - enabled: 1
+    path: Assets/uyari1.unity
+    guid: 80855496a12b34c4b805faa52f7a3239
+  - enabled: 1
+    path: Assets/uyari2.unity
+    guid: de80ebc57919fab45a559f0d79213fe3
+  - enabled: 1
+    path: Assets/uyari3.unity
+    guid: ba009d7bfd7809d46a01a266b4a2d112
+  - enabled: 1
+    path: Assets/uyari4.unity
+    guid: b4d68bd87c0ebb04286c598ed10ec734
+  - enabled: 1
+    path: Assets/uyari5.unity
+    guid: c67171f6d90b93b4ab1a76ab30aeae64
+  - enabled: 1
+    path: Assets/yasak1.unity
+    guid: ba789c91fa510c4458728ad69ffd8d60
+  - enabled: 1
+    path: Assets/yasak2.unity
+    guid: e6f5be354542e99469508620706a8010
+  - enabled: 1
+    path: Assets/yasak3.unity
+    guid: 2fffeb3011840824d96864f281d8812e
+  - enabled: 1
+    path: Assets/yasak4.unity
+    guid: 4d3498543f668d847a76bea780831c51
+  - enabled: 1
+    path: Assets/yasak5.unity
+    guid: 1a331e0c4d9da944ebc0926692463c3f
+  - enabled: 1
+    path: Assets/tebrikler.unity
+    guid: 6c606e96b392c734db7f79ebd4c4d5d3
+  m_configObjects: {}
